@@ -1,1 +1,2 @@
-private-file.key
+*SECRET.asc
+*.rev
